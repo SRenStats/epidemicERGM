@@ -1,0 +1,2 @@
+# epidemicERGM
+ERGM + COVID
